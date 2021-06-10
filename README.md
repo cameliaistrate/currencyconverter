@@ -1,5 +1,8 @@
 # currency-converter
 
+A currency converter project built in Vue.js.
+The converter can fetch and parse the datasets in 2 different methods, in the Converter.vue file. One of them is commented out. If you want to try it, uncomment it and comment out the previously used method.
+
 ## Project setup
 ```
 npm install
